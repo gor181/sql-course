@@ -15,8 +15,12 @@ skills: 1
 key: 523146ceda
 ```
 
-Do some data science.
+Do some data science
 
+`@instructions`
+
+
+`@hint`
 
 
 
@@ -143,7 +147,7 @@ da
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: fc01042ec4
 ```
