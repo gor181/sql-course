@@ -117,16 +117,12 @@ key: 88aedca7b6
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 
 
 `@solution`
-```{}
+```{undefined}
 import a from b where c
 dasdas
 das
@@ -137,6 +133,46 @@ da
 ```
 
 
+
+
+
+
+---
+## pure mcq
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 
+
+key: fc01042ec4
+```
+
+assignment for pure mcq!
+
+
+`@hint`
+this is a just simple hint
+
+
+
+
+
+`@possible_answers`
+- first
+- second
+- [third]
+- fourth
+- fifth
+- sixt
+
+`@feedbacks`
+- not
+- not again
+- yes!
+- not again
+- not again
+- not again
 
 
 
