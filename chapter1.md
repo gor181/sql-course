@@ -17,10 +17,6 @@ key: 523146ceda
 
 Do some data science....
 
-`@instructions`
-
-
-`@hint`
 
 
 
@@ -59,6 +55,10 @@ key: 0cd082d165
 
 ok does this work now?
 
+`@instructions`
+
+
+`@hint`
 
 
 
