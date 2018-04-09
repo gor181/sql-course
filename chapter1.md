@@ -15,8 +15,12 @@ skills: 1
 key: 523146ceda
 ```
 
-Do some data science....
+changed the kurac
 
+`@instructions`
+
+
+`@hint`
 
 
 
@@ -55,10 +59,6 @@ key: 0cd082d165
 
 ok does this work now?
 
-`@instructions`
-
-
-`@hint`
 
 
 
