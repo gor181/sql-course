@@ -16,14 +16,20 @@ key: 523146ceda
 ```
 
 # ok this is a hader
+das
+das
+d
+
+dasdas
+
+
+**bolded**
 
 `@instructions`
 removed
 
 
 aaa
-
-`@hint`
 
 
 `@pre_exercise_code`
@@ -42,48 +48,6 @@ dada
 ```{python}
 da
 ```
-
-
-
-
-
----
-## Insert exercise title here
-
-```yaml
-type: VideoExercise
-
-xp: NaN
-
-key: f5149eaecd
-```
-
-`@projector_key`
-f2435a8a82819eb5327ce0658eb13049
-
----
-## Insert exercise title here
-
-```yaml
-type: NormalExercise
-
-xp: NaN
-
-key: 0cd082d165
-```
-
-dsadasda
-
-`@instructions`
-
-
-`@hint`
-
-
-
-
-
-
 
 
 
@@ -121,39 +85,6 @@ key: 7499d99245
 
 
 
-
-
-
-
-
-
----
-## Insert exercise title here
-
-```yaml
-type: NormalExercise
-
-xp: NaN
-
-key: 88aedca7b6
-```
-
-
-
-
-
-
-
-`@solution`
-```{undefined}
-import a from b where c
-dasdas
-das
-das
-d
-a
-da
-```
 
 
 
@@ -238,6 +169,70 @@ key: ccef3b2bc2
 ```
 
 normal
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## new
+
+```yaml
+type: NormalExercise
+
+xp: NaN
+
+key: 403425b3af
+```
+
+ok here
+
+`@instructions`
+instructions
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: undefined
+
+key: 545527377e
+```
+
+`@projector_key`
+729fda1002de6560737138bed1509ebb
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: undefined
+
+key: d374ab6e91
+```
+
+
 
 
 
