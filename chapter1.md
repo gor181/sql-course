@@ -15,27 +15,33 @@ skills: 1
 key: 523146ceda
 ```
 
-ok
-
-
-
-
-dasdsa
-d
-as
-das
-da
+# ok this is a hader
 
 `@instructions`
-dadsadas
+removed
+
+
+aaa
 
 `@hint`
 
 
-
-
-
-
+`@pre_exercise_code`
+```{python}
+pre exercise code
+```
+`@sample_code`
+```{sql}
+dada
+```
+`@solution`
+```{sql}
+dada
+```
+`@sct`
+```{python}
+da
+```
 
 
 
