@@ -15,21 +15,23 @@ skills: 1
 key: 523146ceda
 ```
 
-# ok this is a hader
-das
-das
-d
+**ok this is my text and it's bold**
 
-dasdas
+> this is a quote
 
+![](image-url)
 
-**bolded**
+- bulleted list
+- 2 
+- # ## __****3****__
 
 `@instructions`
 removed
 
 
 aaa
+
+`@hint`
 
 
 `@pre_exercise_code`
@@ -208,39 +210,15 @@ instructions
 
 
 ---
-## Insert exercise title here
+## video ex
 
 ```yaml
 type: VideoExercise
 
-xp: undefined
+xp: NaN
 
 key: 545527377e
 ```
 
 `@projector_key`
 729fda1002de6560737138bed1509ebb
-
----
-## Insert exercise title here
-
-```yaml
-type: NormalExercise
-
-xp: undefined
-
-key: d374ab6e91
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
