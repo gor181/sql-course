@@ -31,8 +31,6 @@ removed
 
 aaa
 
-`@hint`
-
 
 `@pre_exercise_code`
 ```{python}
@@ -61,7 +59,7 @@ da
 ```yaml
 type: VideoExercise
 
-xp: NaN
+xp: 50
 
 key: 5c8ca179fc
 ```
@@ -75,7 +73,7 @@ key: 5c8ca179fc
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: 7499d99245
 ```
@@ -99,7 +97,7 @@ key: 7499d99245
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: NaN
+xp: 50
 
 key: fc01042ec4
 ```
@@ -139,7 +137,7 @@ this is a just simple hint
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: e128a81496
 ```
@@ -165,7 +163,7 @@ dsadas
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: ccef3b2bc2
 ```
@@ -189,7 +187,7 @@ normal
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: 403425b3af
 ```
@@ -207,18 +205,3 @@ instructions
 
 
 
-
-
----
-## video ex
-
-```yaml
-type: VideoExercise
-
-xp: NaN
-
-key: 545527377e
-```
-
-`@projector_key`
-729fda1002de6560737138bed1509ebb
