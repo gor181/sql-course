@@ -205,3 +205,18 @@ instructions
 
 
 
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: 50
+
+key: 88e2a0b79e
+```
+
+`@projector_key`
+c5ab42ef1d11d6712d40a5dbbc611b35
