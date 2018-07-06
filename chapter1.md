@@ -1,8 +1,7 @@
 ---
-title: Template Chapter 1
-description: >-
-  This is a template chapter.
-
+  title: "Template Chapter 1"
+  description: "This is a template chapter."
+  v2: true
 
 ---
 ## Ex 1.1
@@ -13,6 +12,9 @@ lang: sql
 xp: 100
 skills: 1
 key: 523146ceda
+
+
+
 ```
 
 **ok this is my text and it's bold**
@@ -53,6 +55,7 @@ da
 
 
 
+
 ---
 ## Insert exercise title here
 
@@ -62,6 +65,9 @@ type: VideoExercise
 xp: 50
 
 key: 5c8ca179fc
+
+
+
 ```
 
 `@projector_key`
@@ -76,7 +82,11 @@ type: NormalExercise
 xp: 100
 
 key: 7499d99245
+
+
+
 ```
+
 
 
 
@@ -100,6 +110,9 @@ type: PureMultipleChoiceExercise
 xp: 50
 
 key: fc01042ec4
+
+
+
 ```
 
 assignment for pure mcq!
@@ -131,6 +144,7 @@ this is a just simple hint
 
 
 
+
 ---
 ## Insert exercise title here
 
@@ -140,12 +154,16 @@ type: NormalExercise
 xp: 100
 
 key: e128a81496
+
+
+
 ```
 
 dasdsa
 
 `@instructions`
 dsadas
+
 
 
 
@@ -166,9 +184,13 @@ type: NormalExercise
 xp: 100
 
 key: ccef3b2bc2
+
+
+
 ```
 
 normal
+
 
 
 
@@ -190,12 +212,16 @@ type: NormalExercise
 xp: 100
 
 key: 403425b3af
+
+
+
 ```
 
 ok here
 
 `@instructions`
 instructions
+
 
 
 
@@ -216,7 +242,41 @@ type: VideoExercise
 xp: 50
 
 key: 88e2a0b79e
+
+
+
 ```
 
 `@projector_key`
 c5ab42ef1d11d6712d40a5dbbc611b35
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 100
+
+key: 25f3484ea7
+
+
+
+```
+
+assignment
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
