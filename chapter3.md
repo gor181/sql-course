@@ -309,20 +309,6 @@ key: acc739051f
 
 
 
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
 ***
 
 
@@ -532,3 +518,28 @@ key: d5a78be106
 ```
 
 
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: ca7cefc136   
+```
+
+`@projector_key`
+9fbe455dcb1a900783c18299dd942496
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 2a6ed7882f   
+```
+
+`@projector_key`
+d2c2c2f686b5a33263aaa72957527204

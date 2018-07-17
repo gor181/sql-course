@@ -1,13 +1,13 @@
 ---
 title: Insert title here
-key: 52fd7326b63833b8c981091a16c9b232
+key: 4f4fe85a97cb4553ccb8efed206b8a18
 
 ---
 ## Title Slide
 
 ```yaml
 type: TitleSlide
-key: 3ebef7f757
+key: fc3faaf583
 ```
 
 
@@ -15,10 +15,10 @@ key: 3ebef7f757
 
 
 `@lower_third`
-
 name: Name Surname
 title: Instructor
 
+`@script`
 
 
 
@@ -28,32 +28,12 @@ title: Instructor
 
 ```yaml
 type: FullSlide
-key: 97c3c24681
-```
-
-
-
-
-
-
-
-
-
----
-## Insert title here...
-
-```yaml
-type: TwoRowsWideTop
-key: 2130c17c76
+key: 51ae47c4ef
 ```
 
 `@part1`
 
 
-`@part2`
-
-
-`@part3`
 
 
 
@@ -67,14 +47,18 @@ key: 2130c17c76
 ## Insert title here...
 
 ```yaml
-type: FullImageSlide
-key: 70f4e716de
+type: FullCodeSlide
+key: 1030d71243
 ```
 
+`@part1`
 
 
 
 
+
+
+`@script`
 
 
 
@@ -83,14 +67,42 @@ key: 70f4e716de
 ## Insert title here...
 
 ```yaml
-type: FullImageSlide
-key: 7b06480dec
+type: TwoRows
+key: ba0e0a1084
 ```
 
 `@part1`
 
 
+`@part2`
 
+
+
+
+
+`@script`
+
+
+
+
+---
+## Insert title here...
+
+```yaml
+type: TwoRowsTwoColumns
+key: 1639a7b4d2
+```
+
+`@part1`
+
+
+`@part2`
+
+
+`@part3`
+
+
+`@part4`
 
 
 
@@ -104,13 +116,15 @@ key: 7b06480dec
 
 ```yaml
 type: FinalSlide
-key: 85028c961c
+key: 63c979f03b
 ```
 
 
 
 
 
+
+`@script`
 
 
 
