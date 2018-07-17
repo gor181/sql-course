@@ -329,7 +329,7 @@ key: acc739051f
 
 ```yaml
 type: NormalExercise 
-xp: 25 
+xp: 20 
 key: 4b1ba7a939   
 ```
 
@@ -338,7 +338,7 @@ key: 4b1ba7a939
 
 
 `@instructions`
-
+1
 
 `@hint`
 
@@ -371,7 +371,7 @@ key: 4b1ba7a939
 
 ```yaml
 type: MultipleChoiceExercise 
-xp: 25 
+xp: 20 
 key: 2acd9ab313   
 ```
 
@@ -380,7 +380,7 @@ key: 2acd9ab313
 
 
 `@instructions`
-
+2
 
 `@hint`
 
@@ -399,7 +399,7 @@ key: 2acd9ab313
 
 ```yaml
 type: NormalExercise 
-xp: 25 
+xp: 20 
 key: eca4a4997c   
 ```
 
@@ -408,7 +408,7 @@ key: eca4a4997c
 
 
 `@instructions`
-
+3
 
 `@hint`
 
@@ -441,7 +441,7 @@ key: eca4a4997c
 
 ```yaml
 type: MultipleChoiceExercise 
-xp: 25 
+xp: 20 
 key: abcf8c38f3   
 ```
 
@@ -450,9 +450,79 @@ key: abcf8c38f3
 
 
 `@instructions`
-
+4
 
 `@hint`
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+
+***
+
+
+
+```yaml
+type: MultipleChoiceExercise 
+xp: 20 
+key: 63be9840d6   
+```
+
+
+
+
+
+`@instructions`
+exercise 5
+
+`@hint`
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise 
+xp: 0 
+key: d5a78be106   
+```
+
+
+
+
+
+`@instructions`
+6
+
+`@hint`
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
 
 
 `@sct`
