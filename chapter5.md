@@ -39,6 +39,7 @@ eval(parse("http://s3.amazonaws.com/assets.datacamp.com/production/course_5334/d
 
 ```
 
+***
 
 ```yaml
 type: MultipleChoiceExercise 
