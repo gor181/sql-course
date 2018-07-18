@@ -14,15 +14,7 @@ key: 523146ceda
 ```
 
 
-**ok this is my text and it's bold**
-
-> this is a quote
-
-![](image-url)
-
-- bulleted list
-- 2 
-- # ## __****3****__
+dsalndklsa
 
 
 `@instructions`
@@ -30,6 +22,9 @@ dadaremoved
 dsadsda
 dsada
 aaadasdsada
+
+`@hint`
+
 
 `@pre_exercise_code`
 
@@ -78,8 +73,11 @@ key: 7499d99245
 ```
 
 
+dasdasda
 
 
+`@hint`
+dasdas
 
 ---
 
@@ -92,7 +90,7 @@ key: fc01042ec4
 ```
 
 
-changed
+dasdasda
 
 
 `@hint`
