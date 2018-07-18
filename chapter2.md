@@ -1,8 +1,7 @@
 ---
   title: "chapter 2"
-  v2: true
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
@@ -11,7 +10,9 @@ xp: 100
 key: ea6b7175bc   
 ```
 
-adas
+
+changes done
+
 
 `@instructions`
 dsadasdasdsasadsa
@@ -25,11 +26,13 @@ dsadasdasdsasadsa
 
 ```
 
+
 `@sample_code`
 
 ```{sql}
 
 ```
+
 
 `@solution`
 
@@ -37,13 +40,10 @@ dsadasdasdsasadsa
 
 ```
 
+
 `@sct`
 
 ```{python}
 
 ```
-
-
-
-
 
