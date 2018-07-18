@@ -26,10 +26,13 @@ key: 523146ceda
 
 
 `@instructions`
-removed
+dadaremoved
 
 
 aaa
+
+`@hint`
+
 
 `@pre_exercise_code`
 
@@ -83,7 +86,7 @@ key: 7499d99245
 
 ---
 
-## pure mcq
+## bla
 
 ```yaml
 type: PureMultipleChoiceExercise 
@@ -190,15 +193,6 @@ key: 5bdf09a717
 
 
 
-`@hint`
-
-
-`@possible_answers`
-
-
-`@feedbacks`
-
-
 ---
 
 ## name
@@ -237,13 +231,6 @@ key: 42beafd3ed
 
 
 dasdas
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
 
 
 `@sample_code`
@@ -474,3 +461,30 @@ key: 94daf41631
 
 `@projector_key`
 4f4fe85a97cb4553ccb8efed206b8a18
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise 
+xp: 50 
+key: 12a7d3e853   
+```
+
+
+
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise 
+xp: 100 
+key: 3216ee61c0   
+```
+
+
+
+

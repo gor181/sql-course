@@ -29,28 +29,28 @@ prop_model(data)
 
 `@pre_exercise_code`
 
-```{r}
+```{python}
 eval(parse("http://s3.amazonaws.com/assets.datacamp.com/production/course_5334/datasets/beta_binomial_function.R"))
 ```
 
 `@sample_code`
 
-```{r}
+```{sql}
 
 ```
 
+
 ***
+
+
 
 ```yaml
 type: MultipleChoiceExercise 
-xp: 50 
+xp: 100 
 key: 99ab0345fc   
 ```
 
 
-`@question`
-
-Looking at the final probability distribution at n=4, what information does the model have regarding the underlying proportion of heads?
 
 
 
@@ -72,3 +72,4 @@ test_mc(correct = 1, feedback_msgs = c(msg1,msg2,msg3, msg4))
 - It could be anywhere from 0% to 100%.
 - It's more likely to be above 50%.
 - It is close to 50% with high probability.
+
