@@ -92,7 +92,7 @@ key: fc01042ec4
 ```
 
 
-assignment for pure mcq!
+changed
 
 
 `@hint`
