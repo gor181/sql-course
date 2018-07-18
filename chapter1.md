@@ -31,9 +31,6 @@ dsadsda
 dsada
 aaadasdsada
 
-`@hint`
-
-
 `@pre_exercise_code`
 
 ```{python}
@@ -99,7 +96,7 @@ assignment for pure mcq!
 
 
 `@hint`
-this is a just simple hint
+aathis is a just simple hint
 
 `@possible_answers`
 - first
