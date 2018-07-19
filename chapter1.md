@@ -14,12 +14,11 @@ key: 523146ceda
 ```
 
 
-dsalndklsa
+lkdnaskldnklasda
 
 
 `@instructions`
-dadaremoved
-dsadsda
+dadaremoveddasdas
 dsada
 aaadasdsada
 
@@ -30,6 +29,7 @@ aaadasdsada
 
 ```{python}
 pre exercise code
+import a from b
 ```
 
 `@sample_code`
