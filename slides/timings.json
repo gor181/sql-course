@@ -38,23 +38,9 @@
       }
     },
     {
-      "timing": 0.36451243264655564,
-      "state": {
-        "indexh": 2,
-        "indexf": -1
-      }
-    },
-    {
-      "timing": 0.4596314433440768,
-      "state": {
-        "indexh": 2,
-        "indexf": 0
-      }
-    },
-    {
       "timing": 0.5072364289474768,
       "state": {
-        "indexh": 3,
+        "indexh": 2,
         "indexf": -1
       }
     }
