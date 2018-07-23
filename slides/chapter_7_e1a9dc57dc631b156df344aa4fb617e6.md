@@ -18,10 +18,10 @@ key: ae66be0865
 
 
 `@lower_third`
+
 name: Name Surname
 title: Instructor
 
-`@script`
 
 
 
@@ -36,6 +36,8 @@ key: da61702d1e
 
 `@part1`
 step 1 {{-}}
+
+step 2 {{1}}
 
 
 
@@ -58,8 +60,6 @@ key: 70d4aa81f5
 
 
 
-
-`@script`
 
 
 
