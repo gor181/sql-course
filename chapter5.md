@@ -33,13 +33,6 @@ prop_model(data)
 eval(parse("http://s3.amazonaws.com/assets.datacamp.com/production/course_5334/datasets/beta_binomial_function.R"))
 ```
 
-`@sample_code`
-
-```{sql}
-
-```
-
-
 ***
 
 
@@ -73,3 +66,16 @@ test_mc(correct = 1, feedback_msgs = c(msg1,msg2,msg3, msg4))
 - It's more likely to be above 50%.
 - It is close to 50% with high probability.
 
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: c357294a7e   
+```
+
+`@projector_key`
+ff7647e84536d48ee3f7bac1e6b88325
