@@ -1,6 +1,9 @@
 ---
 title: Insert title here
 key: efdae0ff4a05d68ebfcc4e8a9baf3a91
+video_link:
+
+  mp3: https://s3.amazonaws.com/videos.datacamp.com/mp3/5103_inference_for_numerical_data/v1/5103_ch4_5.mp3
 
 ---
 ## Title Slide
@@ -15,8 +18,10 @@ key: 56a2e4e27d
 
 
 `@lower_third`
-name: Name Surname
-title: Instructor
+
+name: Goran
+title: Instructor at DataCamp
+
 
 `@script`
 
