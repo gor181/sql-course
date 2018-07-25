@@ -3,7 +3,7 @@
   description: "This is a template chapter."
 ---
 
-## Ex 1.1
+## Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1
 
 ```yaml
 type: NormalExercise 
@@ -14,16 +14,22 @@ key: 523146ceda
 ```
 
 
-lkdnaskldnklasda
+In this exercise, you will look at an equity index and plot it for a particular range of dates.
+The data used in this exercise and in the rest of the course are contained in the package [qrmdata](https://www.rdocumentation.org/packages/qrmdata/versions/2016-01-03-1). You also need the package [xts](https://www.rdocumentation.org/packages/xts/versions/0.9-7) to manipulate time series.
+
+When the `qrmdata` library is attached, as it will be throughout the course, you can load a dataset with the `data()` command. For example, the command `data("FTSE")` loads the UK FTSE (Financial Times Stock Exchange) index, which you can then refer to as object `FTSE`.
+
+will you
+
+If you want to extract the data from a certain date range, for example from April 1 to June 30, 2000, you can create a new object using the command `ftse00 <- FTSE["2000-04-01/2000-06-30"]`.
+
+From now onwards, the `xts` package will also already be loaded into your workspace.
 
 
 `@instructions`
 dadaremoveddasdas
 dsada
 aaadasdsada
-
-`@hint`
-
 
 `@pre_exercise_code`
 
@@ -52,7 +58,7 @@ da
 
 ---
 
-## Insert exercise title here
+## Insert exercise title here goran goran goran
 
 ```yaml
 type: VideoExercise 
@@ -73,7 +79,7 @@ key: 7499d99245
 ```
 
 
-dasdasda
+will you find this
 
 
 `@hint`
@@ -90,7 +96,7 @@ key: fc01042ec4
 ```
 
 
-dasdasda
+will you find this
 
 
 `@hint`
@@ -137,7 +143,7 @@ key: e128a81496
 ```
 
 
-dasdsa
+will you find this
 
 
 `@instructions`
@@ -225,7 +231,7 @@ key: 42beafd3ed
 ```
 
 
-dasdas
+
 
 
 `@sample_code`
@@ -361,7 +367,7 @@ key: eaffb1db19
 
 
 `@instructions`
-
+subexercise
 
 `@hint`
 
