@@ -154,9 +154,53 @@
       }
     },
     {
-      "timing": 0.5904961268966098,
+      "timing": 0.30784919894419494,
       "state": {
         "indexh": 2,
+        "indexf": -1
+      }
+    }
+  ],
+  "slides/chapter_6_dc13191b6645770c427b8dc8b4b0b0c4.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.01972018132051723,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.08591710182767624,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.2505253168962575,
+      "state": {
+        "indexh": 1,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.44361945169712796,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.8195985639686684,
+      "state": {
+        "indexh": 3,
         "indexf": -1
       }
     }
