@@ -231,7 +231,14 @@ key: 42beafd3ed
 ```
 
 
+dasdsa
 
+
+`@pre_exercise_code`
+
+```{python}
+
+```
 
 
 `@sample_code`
