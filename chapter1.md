@@ -234,13 +234,6 @@ key: 42beafd3ed
 dasdsa
 
 
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
 `@sample_code`
 
 ```{sql}
@@ -496,3 +489,16 @@ key: 3216ee61c0
 
 
 
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 0ebffc1c99   
+```
+
+`@projector_key`
+3da3f2447ac05eb53124f4639f60eaa2
