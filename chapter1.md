@@ -32,30 +32,22 @@ dsada
 aaadasdsada
 
 `@pre_exercise_code`
-
 ```{python}
 pre exercise code
 import a from b
 ```
-
 `@sample_code`
-
 ```{sql}
 dada
 ```
-
 `@solution`
-
 ```{sql}
 dada
 ```
-
 `@sct`
-
 ```{python}
 da
 ```
-
 ---
 
 ## Insert exercise title here goran goran goran
@@ -235,11 +227,9 @@ dasdsa
 
 
 `@sample_code`
-
 ```{sql}
 dasdas
 ```
-
 ***
 
 

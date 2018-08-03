@@ -22,29 +22,21 @@ search in instructions
 search in hint
 
 `@pre_exercise_code`
-
 ```{python}
 # pre ex code
 ```
-
 `@sample_code`
-
 ```{sql}
 SELECT * FROM table
 ```
-
 `@solution`
-
 ```{sql}
 SELECT * FROM table
 ```
-
 `@sct`
-
 ```{python}
 # search sct
 ```
-
 ---
 
 ## Insert exercise title here
@@ -72,17 +64,13 @@ tab exercise search
 
 
 `@pre_exercise_code`
-
 ```{python}
 # pre ex code - tab exercise
 ```
-
 `@sample_code`
-
 ```{sql}
 # sample code - tab exercise
 ```
-
 ***
 
 

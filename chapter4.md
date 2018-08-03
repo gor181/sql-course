@@ -27,40 +27,6 @@ key: 7c5c4c10e5
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
-`@solution`
-
-```{sql}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
-
-
 ---
 
 ## Insert exercise title here
@@ -75,40 +41,6 @@ key: ca132924ac
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
-`@solution`
-
-```{sql}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
-
-
 ---
 
 ## Insert exercise title here
@@ -121,24 +53,4 @@ key: 2d7ed729dd
 
 
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
 
