@@ -8,6 +8,20 @@
 ```yaml
 type: NormalExercise 
 xp: 100 
+key: d5e1d0f9a5   
+```
+
+
+
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise 
+xp: 100 
 key: dede115e92   
 ```
 
@@ -194,20 +208,6 @@ key: f6ae6b441a
 ```{python}
 
 ```
-
-
-
----
-
-## Insert exercise title here
-
-```yaml
-type: NormalExercise 
-xp: 100 
-key: d5e1d0f9a5   
-```
-
-
 
 
 
