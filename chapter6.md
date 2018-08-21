@@ -1,6 +1,6 @@
 ---
-  title: "videos"
-  description: ""
+title: videos
+description: ""
 ---
 
 ## video ex

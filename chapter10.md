@@ -1,3 +1,3 @@
 ---
-  title: "full story working?"
-  description: ""
+title: 'full story working?'
+description: ""

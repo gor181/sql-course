@@ -1,6 +1,6 @@
 ---
-  title: "search 1"
-  description: ""
+title: 'search 1'
+description: ""
 ---
 
 ## Insert exercise title here
@@ -22,21 +22,39 @@ search in instructions
 search in hint
 
 `@pre_exercise_code`
+
 ```{python}
 # pre ex code
 ```
+
+
 `@sample_code`
+
 ```{sql}
 SELECT * FROM table
 ```
+
+
 `@solution`
+
 ```{sql}
 SELECT * FROM table
 ```
+
+
 `@sct`
+
 ```{python}
 # search sct
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ---
 
 ## Insert exercise title here
@@ -63,14 +81,46 @@ key: c7a26e307a
 tab exercise search
 
 
+`@instructions`
+
+
+`@hint`
+
+
 `@pre_exercise_code`
+
 ```{python}
 # pre ex code - tab exercise
 ```
+
+
 `@sample_code`
+
 ```{sql}
 # sample code - tab exercise
 ```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ***
 
 
@@ -91,6 +141,13 @@ tab exercise - sub exercise 1
 `@hint`
 search hint
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
 `@sample_code`
 
 ```{sql}
@@ -110,5 +167,11 @@ search hint
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 

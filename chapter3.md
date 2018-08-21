@@ -1,6 +1,6 @@
 ---
-  title: "3"
-  description: ""
+title: '3'
+description: ""
 ---
 
 ## Insert exercise title here
@@ -13,6 +13,46 @@ key: d5e1d0f9a5
 
 
 
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ---
@@ -29,6 +69,46 @@ key: dede115e92
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ---
 
 ## Insert exercise title here
@@ -43,6 +123,46 @@ key: c7b496ad5b
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ---
 
 ## Insert exercise title here
@@ -55,6 +175,46 @@ key: 2345528580
 
 
 
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ***
@@ -77,6 +237,13 @@ key: fcb7964427
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
 `@sample_code`
 
 ```{sql}
@@ -96,6 +263,12 @@ key: fcb7964427
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -119,11 +292,38 @@ key: 14c1c56dc4
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -147,11 +347,38 @@ key: 19e21bafb5
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -175,11 +402,38 @@ key: 19e21bafb5
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -203,11 +457,38 @@ key: f6ae6b441a
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -223,6 +504,46 @@ key: ed1334b0da
 
 
 
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ***
@@ -245,6 +566,13 @@ key: 8fbc4239d1
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
 `@sample_code`
 
 ```{sql}
@@ -264,6 +592,12 @@ key: 8fbc4239d1
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -287,11 +621,38 @@ key: 99024fb6b2
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -307,6 +668,46 @@ key: acc739051f
 
 
 
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ***
@@ -329,6 +730,13 @@ key: 4b1ba7a939
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
 `@sample_code`
 
 ```{sql}
@@ -348,6 +756,12 @@ key: 4b1ba7a939
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -371,11 +785,38 @@ key: 2acd9ab313
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -399,6 +840,13 @@ key: eca4a4997c
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
 `@sample_code`
 
 ```{sql}
@@ -418,6 +866,12 @@ key: eca4a4997c
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -441,11 +895,38 @@ key: abcf8c38f3
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -469,11 +950,38 @@ exercise 5
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -497,6 +1005,13 @@ key: d5a78be106
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
 `@sample_code`
 
 ```{sql}
@@ -516,6 +1031,12 @@ key: d5a78be106
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 

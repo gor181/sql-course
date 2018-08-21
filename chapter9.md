@@ -1,3 +1,3 @@
 ---
-  title: "search 2"
-  description: ""
+title: 'search 2'
+description: ""

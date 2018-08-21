@@ -1,6 +1,6 @@
 ---
-  title: "Template Chapter 1"
-  description: "This is a template chapter."
+title: 'Template Chapter 1'
+description: 'This is a template chapter.'
 ---
 
 ## Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1Ex 1.1
@@ -31,23 +31,44 @@ dadaremoveddasdas
 dsada
 aaadasdsada
 
+`@hint`
+
+
 `@pre_exercise_code`
+
 ```{python}
 pre exercise code
 import a from b
 ```
+
+
 `@sample_code`
+
 ```{sql}
 dada
 ```
+
+
 `@solution`
+
 ```{sql}
 dada
 ```
+
+
 `@sct`
+
 ```{python}
 da
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ---
 
 ## Insert exercise title here goran goran goran
@@ -74,8 +95,45 @@ key: 7499d99245
 will you find this
 
 
+`@instructions`
+
+
 `@hint`
 dasdas
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
 
 ---
 
@@ -91,8 +149,39 @@ key: fc01042ec4
 will you find this
 
 
+`@instructions`
+
+
 `@hint`
 aathis is a just simple hint
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
 
 `@possible_answers`
 - first
@@ -102,7 +191,7 @@ aathis is a just simple hint
 - fiftha
 - sixt
 
-`@feedbacks`
+`@feedback`
 - not
 - not again
 - yes!
@@ -124,6 +213,46 @@ key: b8eed3ea64
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ---
 
 ## Insert exercise title here
@@ -141,6 +270,43 @@ will you find this
 `@instructions`
 dsadas
 
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ---
 
 ## Insert exercise title here
@@ -153,6 +319,46 @@ key: ccef3b2bc2
 
 
 normal
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ---
@@ -172,6 +378,43 @@ ok here
 `@instructions`
 instructions
 
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ---
 
 ## Insert exercise title here
@@ -184,6 +427,46 @@ key: 5bdf09a717
 
 
 
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ---
@@ -212,42 +495,17 @@ key: 25f3484ea7
 assignment1
 
 
----
-
-## Insert exercise title here
-
-```yaml
-type: TabExercise 
-xp: 100 
-key: 42beafd3ed   
-```
-
-
-dasdsa
-
-
-`@sample_code`
-```{sql}
-dasdas
-```
-***
-
-
-
-```yaml
-type: NormalExercise 
-xp: 20 
-key: 2f6d7e120a   
-```
-
-
-
-
-
 `@instructions`
 
 
 `@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
 
 
 `@sample_code`
@@ -269,6 +527,120 @@ key: 2f6d7e120a
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise 
+xp: 100 
+key: 42beafd3ed   
+```
+
+
+dasdsa
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+dasdas
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
+***
+
+
+
+```yaml
+type: NormalExercise 
+xp: 20 
+key: 2f6d7e120a   
+```
+
+
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -292,11 +664,38 @@ key: 45f055efd3
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -320,6 +719,13 @@ key: 3328871cf6
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
 `@sample_code`
 
 ```{sql}
@@ -339,6 +745,12 @@ key: 3328871cf6
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -362,11 +774,38 @@ subexercise
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -390,11 +829,38 @@ key: 9b3769de35
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
 `@sct`
 
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -418,6 +884,13 @@ key: 4063e84269
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
 `@sample_code`
 
 ```{sql}
@@ -437,6 +910,12 @@ key: 4063e84269
 ```{python}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -466,6 +945,46 @@ key: 12a7d3e853
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ---
 
 ## Insert exercise title here
@@ -478,6 +997,46 @@ key: 3216ee61c0
 
 
 
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ---
