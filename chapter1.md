@@ -1051,15 +1051,3 @@ key: 0ebffc1c99
 
 `@projector_key`
 3da3f2447ac05eb53124f4639f60eaa2
----
-
-## Insert exercise title here
-
-```yaml
-type: VideoExercise 
-xp: 50 
-key: 55dd31e71e   
-```
-
-`@projector_key`
-5cb11b16bfab203d729452059630858e
