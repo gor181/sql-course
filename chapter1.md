@@ -1051,3 +1051,15 @@ key: 0ebffc1c99
 
 `@projector_key`
 3da3f2447ac05eb53124f4639f60eaa2
+---
+
+## mp3
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 9e5dad7c00   
+```
+
+`@projector_key`
+d01e39a5b316ef63e7fe717882fbf199
