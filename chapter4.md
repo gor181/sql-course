@@ -6,24 +6,23 @@ description: ""
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: f3b3438d42   
+type: VideoExercise
+key: f3b3438d42
+xp: 50
 ```
 
 `@projector_key`
 26cb05e2f92a2d96a3595298a80441ef
+
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 7c5c4c10e5   
+type: NormalExercise
+key: 7c5c4c10e5
+xp: 100
 ```
-
-
 
 
 
@@ -34,32 +33,24 @@ key: 7c5c4c10e5
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -72,12 +63,10 @@ key: 7c5c4c10e5
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: ca132924ac   
+type: NormalExercise
+key: ca132924ac
+xp: 100
 ```
-
-
 
 
 
@@ -88,32 +77,24 @@ key: ca132924ac
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -126,12 +107,10 @@ key: ca132924ac
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: 2d7ed729dd   
+type: MultipleChoiceExercise
+key: 2d7ed729dd
+xp: 50
 ```
-
-
 
 
 
@@ -142,36 +121,26 @@ key: 2d7ed729dd
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-

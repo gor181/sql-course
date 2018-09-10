@@ -6,13 +6,12 @@ description: 'This chapter will introduce you to Bayesian data analysis and give
 ## Coin flips with prop_model
 
 ```yaml
-type: TabExercise 
+type: TabExercise
+key: 02b6a540f9
 lang: r
-xp: 100 
+xp: 100
 skills: 1
-key: 02b6a540f9   
 ```
-
 
 The function `prop_model` has been loaded into your workspace. It implements a Bayesian model that assumes that:
 
@@ -26,7 +25,6 @@ data = c(1, 0, 0, 1)
 prop_model(data)
 ```
 
-
 `@instructions`
 
 
@@ -34,32 +32,24 @@ prop_model(data)
 
 
 `@pre_exercise_code`
-
 ```{python}
 eval(parse("http://s3.amazonaws.com/assets.datacamp.com/production/course_5334/datasets/beta_binomial_function.R"))
 ```
 
-
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -69,15 +59,11 @@ eval(parse("http://s3.amazonaws.com/assets.datacamp.com/production/course_5334/d
 
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 100 
-key: 99ab0345fc   
+type: MultipleChoiceExercise
+key: 99ab0345fc
+xp: 100
 ```
-
-
 
 
 
@@ -88,28 +74,21 @@ key: 99ab0345fc
 Look at the distribution at n=4. What value is it centered on? How wide is it spread out?
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
 
-
 `@sct`
-
 ```{r}
 msg1 = "That's right! The model knows it's not close to 0% or close to 100%, but believes it could be anything in between."
 msg2 = "Well, the model has a bit more information than that."
@@ -117,7 +96,6 @@ msg3 = "The probability distribution is symmetrical around 50% which means this 
 msg4 = "If you look at the distribution at n=4 you see that it spans the range 5% to 95%."
 test_mc(correct = 1, feedback_msgs = c(msg1,msg2,msg3, msg4))
 ```
-
 
 `@possible_answers`
 - It's most likely around 50%, but there is large uncertainty.
@@ -127,16 +105,14 @@ test_mc(correct = 1, feedback_msgs = c(msg1,msg2,msg3, msg4))
 
 `@feedback`
 
-
-
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: c357294a7e   
+type: VideoExercise
+key: c357294a7e
+xp: 50
 ```
 
 `@projector_key`

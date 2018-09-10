@@ -6,12 +6,10 @@ description: ""
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: d5e1d0f9a5   
+type: NormalExercise
+key: d5e1d0f9a5
+xp: 100
 ```
-
-
 
 
 
@@ -22,32 +20,24 @@ key: d5e1d0f9a5
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -60,12 +50,10 @@ key: d5e1d0f9a5
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: dede115e92   
+type: NormalExercise
+key: dede115e92
+xp: 100
 ```
-
-
 
 
 
@@ -76,32 +64,24 @@ key: dede115e92
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -114,12 +94,10 @@ key: dede115e92
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
-key: c7b496ad5b   
+type: PureMultipleChoiceExercise
+key: c7b496ad5b
+xp: 50
 ```
-
-
 
 
 
@@ -130,32 +108,24 @@ key: c7b496ad5b
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -168,12 +138,10 @@ key: c7b496ad5b
 ## Insert exercise title here
 
 ```yaml
-type: TabExercise 
-xp: 100 
-key: 2345528580   
+type: TabExercise
+key: 2345528580
+xp: 100
 ```
-
-
 
 
 
@@ -184,32 +152,24 @@ key: 2345528580
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -219,15 +179,11 @@ key: 2345528580
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 20 
-key: fcb7964427   
+type: NormalExercise
+key: fcb7964427
+xp: 20
 ```
-
-
 
 
 
@@ -238,51 +194,37 @@ key: fcb7964427
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-
 
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 20 
-key: 14c1c56dc4   
+type: MultipleChoiceExercise
+key: 14c1c56dc4
+xp: 20
 ```
-
-
 
 
 
@@ -293,51 +235,37 @@ key: 14c1c56dc4
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-
 
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 20 
-key: 19e21bafb5   
+type: MultipleChoiceExercise
+key: 19e21bafb5
+xp: 20
 ```
-
-
 
 
 
@@ -348,51 +276,37 @@ key: 19e21bafb5
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-
 
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 20 
-key: 19e21bafb5   
+type: MultipleChoiceExercise
+key: 19e21bafb5
+xp: 20
 ```
-
-
 
 
 
@@ -403,51 +317,37 @@ key: 19e21bafb5
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-
 
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 20 
-key: f6ae6b441a   
+type: MultipleChoiceExercise
+key: f6ae6b441a
+xp: 20
 ```
-
-
 
 
 
@@ -458,51 +358,39 @@ key: f6ae6b441a
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-
 
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: TabExercise 
-xp: 100 
-key: ed1334b0da   
+type: TabExercise
+key: ed1334b0da
+xp: 100
 ```
-
-
 
 
 
@@ -513,32 +401,24 @@ key: ed1334b0da
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -548,15 +428,11 @@ key: ed1334b0da
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 50 
-key: 8fbc4239d1   
+type: NormalExercise
+key: 8fbc4239d1
+xp: 50
 ```
-
-
 
 
 
@@ -567,51 +443,37 @@ key: 8fbc4239d1
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-
 
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: 99024fb6b2   
+type: MultipleChoiceExercise
+key: 99024fb6b2
+xp: 50
 ```
-
-
 
 
 
@@ -622,51 +484,39 @@ key: 99024fb6b2
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-
 
 ---
 
 ## test
 
 ```yaml
-type: TabExercise 
-xp: 100 
-key: acc739051f   
+type: TabExercise
+key: acc739051f
+xp: 100
 ```
-
-
 
 
 
@@ -677,32 +527,24 @@ key: acc739051f
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -712,15 +554,11 @@ key: acc739051f
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 20 
-key: 4b1ba7a939   
+type: NormalExercise
+key: 4b1ba7a939
+xp: 20
 ```
-
-
 
 
 
@@ -731,51 +569,37 @@ key: 4b1ba7a939
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 20 
-key: 2acd9ab313   
+type: MultipleChoiceExercise
+key: 2acd9ab313
+xp: 20
 ```
-
-
 
 
 
@@ -786,51 +610,37 @@ key: 2acd9ab313
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 20 
-key: eca4a4997c   
+type: NormalExercise
+key: eca4a4997c
+xp: 20
 ```
-
-
 
 
 
@@ -841,51 +651,37 @@ key: eca4a4997c
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 20 
-key: abcf8c38f3   
+type: MultipleChoiceExercise
+key: abcf8c38f3
+xp: 20
 ```
-
-
 
 
 
@@ -896,51 +692,37 @@ key: abcf8c38f3
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 20 
-key: 63be9840d6   
+type: MultipleChoiceExercise
+key: 63be9840d6
+xp: 20
 ```
-
-
 
 
 
@@ -951,51 +733,36 @@ exercise 5
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 0 
-key: d5a78be106   
+type: NormalExercise
+key: d5a78be106
 ```
-
-
 
 
 
@@ -1006,60 +773,51 @@ key: d5a78be106
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: ca7cefc136   
+type: VideoExercise
+key: ca7cefc136
+xp: 50
 ```
 
 `@projector_key`
 9fbe455dcb1a900783c18299dd942496
+
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: 2a6ed7882f   
+type: VideoExercise
+key: 2a6ed7882f
+xp: 50
 ```
 
 `@projector_key`
