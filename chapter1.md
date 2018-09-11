@@ -82,7 +82,7 @@ key: 7499d99245
 xp: 100
 ```
 
-boom
+
 
 `@instructions`
 
@@ -520,7 +520,7 @@ dasdsa
 
 `@pre_exercise_code`
 ```{python}
-this is a pre-exercise code boom3 -exercise code boom3 dkasndklasnkld aslkdnasklndkla lkdas nlk dlaks ndlsakn das
+this is a pre-exercise code 3 -exercise code 3 dkasndklasnkld aslkdnasklndkla lkdas nlk dlaks ndlsakn das
 dasdasd
 asd
 as
