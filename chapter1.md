@@ -61,7 +61,7 @@ da
 
 ---
 
-## Insert exercise title here   
+## Insert exercise title here
 
 ```yaml
 type: VideoExercise
