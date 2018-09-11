@@ -149,7 +149,7 @@ xp: 100
 
 
 `@instructions`
-goran in first sub-exercise
+marko in first sub-exercise
 
 `@hint`
 
