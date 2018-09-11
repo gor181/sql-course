@@ -35,7 +35,7 @@ aaadasdsada
 `@pre_exercise_code`
 ```{python}
 pre exercise code
-import a from b
+export a from b
 ```
 
 `@sample_code`
