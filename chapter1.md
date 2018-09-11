@@ -82,7 +82,7 @@ key: 7499d99245
 xp: 100
 ```
 
-will you find this
+boom
 
 `@instructions`
 
@@ -115,6 +115,59 @@ dasdas
 
 `@feedback`
 
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: 86a5c39492
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 87663be20e
+xp: 100
+```
+
+
+
+`@instructions`
+goran in first sub-exercise
+
+`@hint`
+
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
 
 ---
 
@@ -467,7 +520,14 @@ dasdsa
 
 `@pre_exercise_code`
 ```{python}
-
+this is a pre-exercise code goran -exercise code goran dkasndklasnkld aslkdnasklndkla lkdas nlk dlaks ndlsakn das
+dasdasd
+asd
+as
+da
+d
+ad
+a
 ```
 
 `@sample_code`
