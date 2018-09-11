@@ -61,7 +61,7 @@ da
 
 ---
 
-## Insert exercise title here Goran Goran Goran
+## Insert exercise title here   
 
 ```yaml
 type: VideoExercise
@@ -149,7 +149,7 @@ xp: 100
 
 
 `@instructions`
-Goran2 in first sub-exercise
+2 in first sub-exercise
 
 `@hint`
 
