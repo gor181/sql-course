@@ -61,7 +61,7 @@ da
 
 ---
 
-## Insert exercise title here goran goran goran
+## Insert exercise title here marko marko marko
 
 ```yaml
 type: VideoExercise
