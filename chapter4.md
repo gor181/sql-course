@@ -24,7 +24,7 @@ key: 7c5c4c10e5
 xp: 100
 ```
 
-this is the context and boom2 is the man
+this is the context and boom3 is the man
 
 `@instructions`
 

@@ -520,7 +520,7 @@ dasdsa
 
 `@pre_exercise_code`
 ```{python}
-this is a pre-exercise code boom2 -exercise code boom2 dkasndklasnkld aslkdnasklndkla lkdas nlk dlaks ndlsakn das
+this is a pre-exercise code boom3 -exercise code boom3 dkasndklasnkld aslkdnasklndkla lkdas nlk dlaks ndlsakn das
 dasdasd
 asd
 as
