@@ -27,18 +27,14 @@ xp: 100
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
 
-
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 ***
 
@@ -57,21 +53,16 @@ boom
 
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
