@@ -58,19 +58,6 @@ da
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise
-key: 5c8ca179fc
-xp: 50
-```
-
-`@projector_key`
-52fd7326b63833b8c981091a16c9b232
-
----
-
-## Insert exercise title here
-
-```yaml
 type: NormalExercise
 key: 7499d99245
 xp: 100
@@ -183,6 +170,57 @@ aathis is a just simple hint
 
 ---
 
+## new
+
+```yaml
+type: NormalExercise
+key: 403425b3af
+xp: 100
+```
+
+ok here
+
+`@instructions`
+instructionsa
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 5c8ca179fc
+xp: 50
+```
+
+`@projector_key`
+52fd7326b63833b8c981091a16c9b232
+
+---
+
 ## Inserted at index 5
 
 ```yaml
@@ -255,44 +293,6 @@ normal
 
 `@instructions`
 
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
-## new
-
-```yaml
-type: NormalExercise
-key: 403425b3af
-xp: 100
-```
-
-ok here
-
-`@instructions`
-instructionsa
 
 `@hint`
 
