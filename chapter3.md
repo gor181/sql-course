@@ -39,12 +39,6 @@ xp: 100
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -83,12 +77,6 @@ xp: 100
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -101,36 +89,13 @@ xp: 50
 
 
 
-`@instructions`
-
-
 `@hint`
 
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
 
 `@possible_answers`
 
 
-`@feedback`
+`@feedbacks`
 
 
 ---
@@ -145,12 +110,6 @@ xp: 100
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{python}
 
@@ -160,22 +119,6 @@ xp: 100
 ```{sql}
 
 ```
-
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ***
 
@@ -185,18 +128,11 @@ key: fcb7964427
 xp: 20
 ```
 
-
-
 `@instructions`
 
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{python}
-
-```
 
 `@sample_code`
 ```{sql}
@@ -212,11 +148,6 @@ xp: 20
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -226,38 +157,19 @@ key: 14c1c56dc4
 xp: 20
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -267,38 +179,19 @@ key: 19e21bafb5
 xp: 20
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -308,38 +201,19 @@ key: 19e21bafb5
 xp: 20
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -349,38 +223,19 @@ key: f6ae6b441a
 xp: 20
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ---
 
@@ -394,12 +249,6 @@ xp: 100
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{python}
 
@@ -409,22 +258,6 @@ xp: 100
 ```{sql}
 
 ```
-
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ***
 
@@ -434,18 +267,11 @@ key: 8fbc4239d1
 xp: 50
 ```
 
-
-
 `@instructions`
 
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{python}
-
-```
 
 `@sample_code`
 ```{sql}
@@ -461,11 +287,6 @@ xp: 50
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -475,38 +296,19 @@ key: 99024fb6b2
 xp: 50
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ---
 
@@ -520,12 +322,6 @@ xp: 100
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{python}
 
@@ -535,22 +331,6 @@ xp: 100
 ```{sql}
 
 ```
-
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ***
 
@@ -560,18 +340,11 @@ key: 4b1ba7a939
 xp: 20
 ```
 
-
-
 `@instructions`
 1
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{python}
-
-```
 
 `@sample_code`
 ```{sql}
@@ -587,11 +360,6 @@ xp: 20
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -601,38 +369,19 @@ key: 2acd9ab313
 xp: 20
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 2
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -642,18 +391,11 @@ key: eca4a4997c
 xp: 20
 ```
 
-
-
 `@instructions`
 3
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{python}
-
-```
 
 `@sample_code`
 ```{sql}
@@ -669,11 +411,6 @@ xp: 20
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -683,38 +420,19 @@ key: abcf8c38f3
 xp: 20
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 4
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -724,38 +442,19 @@ key: 63be9840d6
 xp: 20
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 exercise 5
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -764,18 +463,11 @@ type: NormalExercise
 key: d5a78be106
 ```
 
-
-
 `@instructions`
 6
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{python}
-
-```
 
 `@sample_code`
 ```{sql}
@@ -791,11 +483,6 @@ key: d5a78be106
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ---
 

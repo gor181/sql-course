@@ -39,12 +39,6 @@ SELECT * FROM table
 # search sct
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -70,12 +64,6 @@ xp: 100
 
 tab exercise search
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{python}
 # pre ex code - tab exercise
@@ -86,22 +74,6 @@ tab exercise search
 # sample code - tab exercise
 ```
 
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
-
 ***
 
 ```yaml
@@ -110,18 +82,11 @@ key: 316ce98616
 xp: 100
 ```
 
-
-
 `@instructions`
 tab exercise - sub exercise 1
 
 `@hint`
 search hint
-
-`@pre_exercise_code`
-```{python}
-
-```
 
 `@sample_code`
 ```{sql}
@@ -137,8 +102,3 @@ search hint
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`

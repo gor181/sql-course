@@ -52,12 +52,6 @@ this is the context and 3 is the man
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -96,12 +90,6 @@ xp: 100
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -114,7 +102,7 @@ xp: 50
 
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
@@ -125,22 +113,7 @@ xp: 50
 
 ```
 
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`

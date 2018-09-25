@@ -25,12 +25,6 @@ data = c(1, 0, 0, 1)
 prop_model(data)
 ```
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{python}
 eval(parse("http://s3.amazonaws.com/assets.datacamp.com/production/course_5334/datasets/beta_binomial_function.R"))
@@ -41,22 +35,6 @@ eval(parse("http://s3.amazonaws.com/assets.datacamp.com/production/course_5334/d
 
 ```
 
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
-
 ***
 
 ```yaml
@@ -65,28 +43,14 @@ key: 99ab0345fc
 xp: 100
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
 Look at the distribution at n=4. What value is it centered on? How wide is it spread out?
-
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
 
 `@sct`
 ```{r}
@@ -96,14 +60,6 @@ msg3 = "The probability distribution is symmetrical around 50% which means this 
 msg4 = "If you look at the distribution at n=4 you see that it spans the range 5% to 95%."
 test_mc(correct = 1, feedback_msgs = c(msg1,msg2,msg3, msg4))
 ```
-
-`@possible_answers`
-- It's most likely around 50%, but there is large uncertainty.
-- It could be anywhere from 0% to 100%.
-- It's more likely to be above 50%.
-- It is close to 50% with high probability.
-
-`@feedback`
 
 ---
 

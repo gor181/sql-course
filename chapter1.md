@@ -53,12 +53,6 @@ dada
 da
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -110,12 +104,6 @@ dasdas
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -145,8 +133,6 @@ type: NormalExercise
 key: 87663be20e
 xp: 100
 ```
-
-
 
 `@instructions`
 2 in first sub-exercise
@@ -181,41 +167,13 @@ xp: 50
 
 will you find this
 
-`@instructions`
-
-
 `@hint`
 aathis is a just simple hint
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
-
 `@possible_answers`
-- first
-- second
-- [third]
-- fourth
-- fiftha
-- sixt
 
-`@feedback`
+
+`@feedbacks`
 - not
 - not again
 - yes!
@@ -235,12 +193,6 @@ xp: 100
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{python}
 
@@ -250,22 +202,6 @@ xp: 100
 ```{sql}
 
 ```
-
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -305,12 +241,6 @@ dsadas
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -348,12 +278,6 @@ normal
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -393,12 +317,6 @@ instructionsa
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -411,36 +329,13 @@ xp: 50
 
 
 
-`@instructions`
-
-
 `@hint`
 
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
 
 `@possible_answers`
 
 
-`@feedback`
+`@feedbacks`
 
 
 ---
@@ -494,12 +389,6 @@ assignment1
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -511,12 +400,6 @@ xp: 100
 ```
 
 dasdsa
-
-`@instructions`
-
-
-`@hint`
-
 
 `@pre_exercise_code`
 ```{python}
@@ -535,22 +418,6 @@ a
 dasdas
 ```
 
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
-
 ***
 
 ```yaml
@@ -559,18 +426,11 @@ key: 2f6d7e120a
 xp: 20
 ```
 
-
-
 `@instructions`
 
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{python}
-
-```
 
 `@sample_code`
 ```{sql}
@@ -586,11 +446,6 @@ xp: 20
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -600,38 +455,19 @@ key: 45f055efd3
 xp: 20
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -641,18 +477,11 @@ key: 3328871cf6
 xp: 20
 ```
 
-
-
 `@instructions`
 
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{python}
-
-```
 
 `@sample_code`
 ```{sql}
@@ -668,11 +497,6 @@ xp: 20
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -682,38 +506,19 @@ key: eaffb1db19
 xp: 20
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 subexercise
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -723,38 +528,19 @@ key: 9b3769de35
 xp: 20
 ```
 
+`@question`
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
 
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -763,18 +549,11 @@ type: NormalExercise
 key: 4063e84269
 ```
 
-
-
 `@instructions`
 
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{python}
-
-```
 
 `@sample_code`
 ```{sql}
@@ -790,11 +569,6 @@ key: 4063e84269
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ---
 
@@ -821,7 +595,7 @@ xp: 50
 
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
@@ -832,26 +606,10 @@ xp: 50
 
 ```
 
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -890,12 +648,6 @@ xp: 100
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 

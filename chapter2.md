@@ -37,8 +37,3 @@ dsadasdasdsasadsa
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
