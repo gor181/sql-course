@@ -95,7 +95,7 @@ xp: 50
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 
 
 ---
@@ -128,6 +128,8 @@ key: fcb7964427
 xp: 20
 ```
 
+
+
 `@instructions`
 
 
@@ -157,10 +159,6 @@ key: 14c1c56dc4
 xp: 20
 ```
 
-`@question`
-
-
-`@possible_answers`
 
 
 `@hint`
@@ -170,6 +168,11 @@ xp: 20
 ```{python}
 
 ```
+
+`@possible_answers`
+
+
+`@question`
 
 ***
 
@@ -179,10 +182,6 @@ key: 19e21bafb5
 xp: 20
 ```
 
-`@question`
-
-
-`@possible_answers`
 
 
 `@hint`
@@ -192,6 +191,11 @@ xp: 20
 ```{python}
 
 ```
+
+`@possible_answers`
+
+
+`@question`
 
 ***
 
@@ -201,10 +205,6 @@ key: 19e21bafb5
 xp: 20
 ```
 
-`@question`
-
-
-`@possible_answers`
 
 
 `@hint`
@@ -214,6 +214,11 @@ xp: 20
 ```{python}
 
 ```
+
+`@possible_answers`
+
+
+`@question`
 
 ***
 
@@ -223,10 +228,6 @@ key: f6ae6b441a
 xp: 20
 ```
 
-`@question`
-
-
-`@possible_answers`
 
 
 `@hint`
@@ -236,6 +237,11 @@ xp: 20
 ```{python}
 
 ```
+
+`@possible_answers`
+
+
+`@question`
 
 ---
 
@@ -267,6 +273,8 @@ key: 8fbc4239d1
 xp: 50
 ```
 
+
+
 `@instructions`
 
 
@@ -296,10 +304,6 @@ key: 99024fb6b2
 xp: 50
 ```
 
-`@question`
-
-
-`@possible_answers`
 
 
 `@hint`
@@ -309,6 +313,11 @@ xp: 50
 ```{python}
 
 ```
+
+`@possible_answers`
+
+
+`@question`
 
 ---
 
@@ -340,6 +349,8 @@ key: 4b1ba7a939
 xp: 20
 ```
 
+
+
 `@instructions`
 1
 
@@ -369,11 +380,7 @@ key: 2acd9ab313
 xp: 20
 ```
 
-`@question`
 
-
-`@possible_answers`
-2
 
 `@hint`
 
@@ -383,6 +390,11 @@ xp: 20
 
 ```
 
+`@possible_answers`
+2
+
+`@question`
+
 ***
 
 ```yaml
@@ -390,6 +402,8 @@ type: NormalExercise
 key: eca4a4997c
 xp: 20
 ```
+
+
 
 `@instructions`
 3
@@ -420,11 +434,7 @@ key: abcf8c38f3
 xp: 20
 ```
 
-`@question`
 
-
-`@possible_answers`
-4
 
 `@hint`
 
@@ -433,6 +443,11 @@ xp: 20
 ```{python}
 
 ```
+
+`@possible_answers`
+4
+
+`@question`
 
 ***
 
@@ -442,11 +457,7 @@ key: 63be9840d6
 xp: 20
 ```
 
-`@question`
 
-
-`@possible_answers`
-exercise 5
 
 `@hint`
 
@@ -456,12 +467,19 @@ exercise 5
 
 ```
 
+`@possible_answers`
+exercise 5
+
+`@question`
+
 ***
 
 ```yaml
 type: NormalExercise
 key: d5a78be106
 ```
+
+
 
 `@instructions`
 6

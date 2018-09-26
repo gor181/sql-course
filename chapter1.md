@@ -121,6 +121,8 @@ key: 87663be20e
 xp: 100
 ```
 
+
+
 `@instructions`
 2 in first sub-exercise
 
@@ -160,7 +162,7 @@ aathis is a just simple hint
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 - not
 - not again
 - yes!
@@ -335,7 +337,7 @@ xp: 50
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 
 
 ---
@@ -426,6 +428,8 @@ key: 2f6d7e120a
 xp: 20
 ```
 
+
+
 `@instructions`
 
 
@@ -455,10 +459,6 @@ key: 45f055efd3
 xp: 20
 ```
 
-`@question`
-
-
-`@possible_answers`
 
 
 `@hint`
@@ -469,6 +469,11 @@ xp: 20
 
 ```
 
+`@possible_answers`
+
+
+`@question`
+
 ***
 
 ```yaml
@@ -476,6 +481,8 @@ type: NormalExercise
 key: 3328871cf6
 xp: 20
 ```
+
+
 
 `@instructions`
 
@@ -506,11 +513,7 @@ key: eaffb1db19
 xp: 20
 ```
 
-`@question`
 
-
-`@possible_answers`
-subexercise
 
 `@hint`
 
@@ -519,6 +522,11 @@ subexercise
 ```{python}
 
 ```
+
+`@possible_answers`
+subexercise
+
+`@question`
 
 ***
 
@@ -528,10 +536,6 @@ key: 9b3769de35
 xp: 20
 ```
 
-`@question`
-
-
-`@possible_answers`
 
 
 `@hint`
@@ -542,12 +546,19 @@ xp: 20
 
 ```
 
+`@possible_answers`
+
+
+`@question`
+
 ***
 
 ```yaml
 type: NormalExercise
 key: 4063e84269
 ```
+
+
 
 `@instructions`
 
@@ -595,9 +606,6 @@ xp: 50
 
 
 
-`@possible_answers`
-
-
 `@hint`
 
 
@@ -610,6 +618,9 @@ xp: 50
 ```{python}
 
 ```
+
+`@possible_answers`
+
 
 ---
 
