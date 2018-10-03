@@ -43,6 +43,10 @@ key: 99ab0345fc
 xp: 100
 ```
 
+`@question`
+
+
+`@possible_answers`
 
 
 `@hint`
@@ -56,11 +60,6 @@ msg3 = "The probability distribution is symmetrical around 50% which means this 
 msg4 = "If you look at the distribution at n=4 you see that it spans the range 5% to 95%."
 test_mc(correct = 1, feedback_msgs = c(msg1,msg2,msg3, msg4))
 ```
-
-`@possible_answers`
-
-
-`@question`
 
 ---
 
