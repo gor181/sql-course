@@ -208,7 +208,7 @@ instructionsa
 
 ---
 
-## Insert exercise title here
+## replace candidate
 
 ```yaml
 type: VideoExercise
