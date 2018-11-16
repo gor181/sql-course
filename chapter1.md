@@ -63,7 +63,7 @@ key: 7499d99245
 xp: 100
 ```
 
-![image.jpg](https://assets.datacamp.com/development/repositories/97/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg)
+![image.jpg](https://assets.datacamp.com/development/repositories/97/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image.jpg)
 
 `@instructions`
 https://assets.datacamp.com/development/repositories/97/datasets/b9c6c89ffaadc073ef64bc39b4914e89c3b53e8c/DEMO%20SPACE.py
@@ -257,7 +257,7 @@ will you find this
 dsadas
 
 `@hint`
-![image.jpg](https://assets.datacamp.com/development/repositories/97/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg)
+![image.jpg](https://assets.datacamp.com/development/repositories/97/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image.jpg)
 
 `@pre_exercise_code`
 ```{python}
