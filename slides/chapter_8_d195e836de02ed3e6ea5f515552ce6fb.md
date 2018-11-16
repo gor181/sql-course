@@ -3,16 +3,12 @@ title: Insert title here
 key: d195e836de02ed3e6ea5f515552ce6fb
 
 ---
-## Title Slide
+## title slide - changed all
 
 ```yaml
-type: TitleSlide
-key: e504742c0c
+type: "TitleSlide"
+key: "e504742c0c"
 ```
-
-
-
-
 
 `@lower_third`
 
@@ -24,21 +20,14 @@ title: Instructor at DataCamp
 
 
 
-
 ---
 ## Final Slide
 
 ```yaml
-type: FinalSlide
-key: 4fcc5fc36e
+type: "FinalSlide"
+key: "4fcc5fc36e"
 ```
 
-
-
-
-
-
 `@script`
-
 
 

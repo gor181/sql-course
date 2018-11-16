@@ -3,23 +3,20 @@ title: Insert title here
 key: 4f4fe85a97cb4553ccb8efed206b8a18
 
 ---
-## Title Slide
+## title slide - changed all
 
 ```yaml
-type: TitleSlide
-key: fc3faaf583
+type: "TitleSlide"
+key: "fc3faaf583"
 ```
 
-
-
-
-
 `@lower_third`
+
 name: Name Surname
 title: Instructor
 
-`@script`
 
+`@script`
 
 
 
@@ -27,14 +24,11 @@ title: Instructor
 ## Insert title here...
 
 ```yaml
-type: FullSlide
-key: 51ae47c4ef
+type: "FullSlide"
+key: "51ae47c4ef"
 ```
 
 `@part1`
-
-
-
 
 
 
@@ -42,19 +36,15 @@ key: 51ae47c4ef
 
 
 
-
 ---
 ## Insert title here...
 
 ```yaml
-type: FullCodeSlide
-key: 1030d71243
+type: "FullCodeSlide"
+key: "1030d71243"
 ```
 
 `@part1`
-
-
-
 
 
 
@@ -62,26 +52,23 @@ key: 1030d71243
 
 
 
-
 ---
 ## Insert title here...
 
 ```yaml
-type: TwoRows
-key: ba0e0a1084
+type: "TwoRows"
+key: "ba0e0a1084"
 ```
 
 `@part1`
+
 
 
 `@part2`
 
 
 
-
-
 `@script`
-
 
 
 
@@ -89,17 +76,20 @@ key: ba0e0a1084
 ## Insert title here...
 
 ```yaml
-type: TwoRowsTwoColumns
-key: 1639a7b4d2
+type: "TwoRowsTwoColumns"
+key: "1639a7b4d2"
 ```
 
 `@part1`
 
 
+
 `@part2`
+
 
 
 `@part3`
+
 
 
 `@part4`
@@ -110,21 +100,14 @@ key: 1639a7b4d2
 
 
 
-
 ---
 ## Final Slide
 
 ```yaml
-type: FinalSlide
-key: 63c979f03b
+type: "FinalSlide"
+key: "63c979f03b"
 ```
 
-
-
-
-
-
 `@script`
-
 
 
