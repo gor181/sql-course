@@ -14,3 +14,5 @@ pip3 install --no-deps sqlwhat-ext==0.0.1
 #   && sudo -u postgres createdb --owner repl **DATABASENAME** \
 #   && sudo -u repl psql --echo-all --dbname **DATABASENAME** --file **DATABASENAME**.sql \
 # && service postgresql stop
+
+# https://assets.datacamp.com/development/repositories/97/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
